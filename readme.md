@@ -1,4 +1,4 @@
-# Sentimental Analysis✨
+# COVID Vaccine Tweet Sentimental Analysis✨
 
 📚 **Description**
 =================
@@ -10,6 +10,8 @@ Welcome to Sentimental Analysis! This project is designed to creating a robust s
 
 - [Description](#description)
 - [Table of Contents](#table-of-contents)
+- [Summary](#Summary)
+- [Prerequisites](#Prerequisites)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
@@ -17,6 +19,26 @@ Welcome to Sentimental Analysis! This project is designed to creating a robust s
 - [Authors](#Authors)
 - [Acknowledgments](#Acknowledgments)
 - [Contact](#Contact)
+
+
+🖊 **Summary**
+----------------------
+
+| Code | Project Name | Published Article | Deployed App |
+|------------------|------------------|------------------|------------------|
+| LP5     |Sentiments Analysis     | [Articled](https://medium.com/@penscola/building-a-sentiment-analysis-model-with-three-powerful-models-roberta-bert-and-distilbert-24165582f7a3)  | [Demo_App](https://huggingface.co/spaces/penscola/Sentimental-Analysis-Models) |
+
+
+
+🇱 **Prerequisites**
+---------------------
+Before running the application, ensure you have the following dependencies installed:
+
+- Python 3.6 or higher
+- Streamlit
+- Transformers
+- NumPy
+- SciPy
 
 🔧 **Installation**
 -----------------
@@ -56,8 +78,14 @@ git clone https://github.com/your-username/your-repository.git
 ```
 pip install -r requirements.txt
 ```
-3. Open your project folder in your preferred IDE
-4. open the folder named `notebooks` and run the `streamlit_app.py` file
+3. Open terminal and run the following command:
+```
+cd Sentimental Analysis/notebooks
+
+```
+```
+streamlit run app.py
+```
 
 🤝 **Contributing**
 -----------------
