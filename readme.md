@@ -1,40 +1,92 @@
-# Project : Natural Language Processing
+# Sentimental Analysis✨
 
-## Description
+📚 **Description**
+=================
 
-This repository contains the ressources to start the NLP-related live project you shoud take. The below assignments will introduce you in Unstructured data exploitation, especially Natural Language Processing data, using ML. 
+Welcome to Sentimental Analysis! This project is designed to creating a robust sentiment analysis model using three powerful transformer-based models: RoBERTa, BERT, and DistilBERT. It's a crucial natural language processing task that involves determining the sentiment expressed in a piece of text, whether it’s positive, negative, or neutral.
 
-## Assignments
-Find the list of assignments below:
-- [Zindi NLP Challenge](/zindi_challenge/)
+📖 **Table of Contents**
+=================
 
-## Setup
-Install the required packages to be able to run the evaluation locally.
+🔧 **Installation**
+-----------------
+To get started with Sentimental Analysis, follow these installation steps:
 
-You need to have [`Python3`](https://www.python.org/) on your system. Then you can clone this repo and being at the repo's root (`root :: repo_name> ...`)  follow the steps below:
-
+1. You need to have `Python3` on your system. Then you can clone this repo and being at the repo's root `(root :: repo_name> ...)` follow the steps below:
 - Windows:
-        
-        python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
+```
+python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
+```
 
 - Linux & MacOs:
-        
-        python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
 
-The both long command-lines have a same structure, they pipe multiple commands using the symbol **;** but you may manually execute them one after another.
+```
+python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
+```
 
-1. **Create the Python's virtual environment** that isolates the required libraries of the project to avoid conflicts;
-2. **Activate the Python's virtual environment** so that the Python kernel & libraries will be those of the isolated environment;
-3. **Upgrade Pip, the installed libraries/packages manager** to have the up-to-date version that will work correctly;
-4. **Install the required libraries/packages** listed in the `requirements.txt` file so that it will be allow to import them into the python's scripts and notebooks without any issue.
+The both long command-lines have a same structure, they pipe multiple commands using the symbol ; but you may manually execute them one after another.
 
-**NB:** For MacOs users, please install `Xcode` if you have an issue.
+1. <b>Create the Python's virtual environment</b> that isolates the required libraries of the project to avoid conflicts;
+2. <b>Activate the Python's virtual environment</b> so that the Python kernel & libraries will be those of the isolated environment;
+3. <b>Upgrade Pip, the installed libraries/packages manager</b> to have the up-to-date version that will work correctly;
+4. <b>Install the required libraries/packages</b> listed in the `requirements.txt` file so that it will be allow to import them into the python's scripts and notebooks without any issue.
 
-## Ressources
-1. [Quick intro to NLP](https://www.youtube.com/watch?v=CMrHM8a3hqw)
-1. [Getting Started With Hugging Face in 15 Minutes](https://www.youtube.com/watch?v=QEaBAZQCtwE)
-1. [Fine-tuning a Neural Network explained](https://www.youtube.com/watch?v=5T-iXNNiwIs)
-1. [Fine-Tuning-DistilBert - Hugging Face Transformer for Poem Sentiment Prediction | NLP](https://www.youtube.com/watch?v=zcW2HouIIQg)
-1. [Introduction to NLP: Playlist](https://www.youtube.com/playlist?list=PLM8wYQRetTxCCURc1zaoxo9pTsoov3ipY)
-<!-- 1. [](https://www.youtube.com/)
-1. [](https://www.youtube.com/) -->
+
+🚀 **Usage**
+-----------------
+To use Sentimental Analysis, follow these instructions:
+
+- Getting Started
+Follow these simple steps to get started with Sentimental Analysis:
+1. Clone this repository
+```
+git clone https://github.com/your-username/your-repository.git
+```
+2. Install the required dependencies:
+```
+pip install -r requirements.txt
+```
+3. Open your project folder in your preferred IDE
+4. open the folder named `notebooks` and run the `streamlit_app.py` file
+
+🤝 **Contributing**
+-----------------
+We welcome contributions from the community! If you'd like to contribute to Sentimental Analysis, please follow our guidelines outlined in [CONTRIBUTING.md]. Here's a quick overview:
+
+1. Fork the repository
+2. Clone the repository
+3. Create a new branch
+4. Make necessary changes
+5. Test your changes
+6. Commit your changes
+7. Push to your fork
+8. Create a Pull Request
+9. Code Review
+10. Merge
+
+📜 **License**
+-----------------
+Sentimental Analysis is released under the MIT. For more details, see the [LICENSE] file.
+
+
+👥 **Authors**
+=================
+
+This project is developed and maintained by:
+- [penscola] 🚀
+
+Feel free to reach out to us with any questions or feedback!
+
+✨ **Acknowledgments**
+=================
+
+We would like to express our gratitude to [Azubi-Africa] for their valuable support to this project. From the start until we completed this project, they have been a great help to us. We are very thankful for their support and guidance throughout this project.
+
+📞 **Contact**
+=================
+
+For any questions, concerns, or suggestions regarding Sentimental Analysis, please contact me at [penscolashackletonfelix@gmail.com].
+
+---
+
+🎉 Feel free to personalize and customize this template according to your project's needs!      
