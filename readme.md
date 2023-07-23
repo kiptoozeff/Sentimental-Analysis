@@ -89,7 +89,7 @@ streamlit run app.py
 
 🤝 **Contributing**
 -----------------
-We welcome contributions from the community! If you'd like to contribute to Sentimental Analysis, please follow our guidelines outlined in [CONTRIBUTING.md]. Here's a quick overview:
+We welcome contributions from the community! If you'd like to contribute to Sentimental Analysis, please follow our guidelines outlined in [CONTRIBUTING](CONTRIBUTING.md). Here's a quick overview:
 
 1. Fork the repository
 2. Clone the repository
@@ -104,7 +104,7 @@ We welcome contributions from the community! If you'd like to contribute to Sent
 
 📜 **License**
 -----------------
-Sentimental Analysis is released under the MIT. For more details, see the [LICENSE] file.
+Sentimental Analysis is released under the MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
 👥 **Authors**
