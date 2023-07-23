@@ -10,13 +10,13 @@ Welcome to Sentimental Analysis! This project is designed to creating a robust s
 
 - [Description](#description)
 - [Table of Contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [License](#License)
+- [Authors](#Authors)
+- [Acknowledgments](#Acknowledgments)
+- [Contact](#Contact)
 
 🔧 **Installation**
 -----------------
