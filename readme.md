@@ -133,7 +133,7 @@ We would like to express our gratitude to [Azubi-Africa] for their valuable supp
 📞 **Contact**
 =================
 
-For any questions, concerns, or suggestions regarding Sentimental Analysis, please contact me at [📧Email](penscolashackletonfelix@gmail.com), 
+For any questions, concerns, or suggestions regarding Sentimental Analysis, please contact me at; 
 
 <a href="https://www.linkedin.com/in/felix-kiprotich-a2ba1a1a4/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
