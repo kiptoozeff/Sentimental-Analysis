@@ -102,6 +102,16 @@ We welcome contributions from the community! If you'd like to contribute to Sent
 9. Code Review
 10. Merge
 
+📙 **Resource**
+-----------------
+
+1. [Quick intro to NLP](https://www.youtube.com/watch?v=CMrHM8a3hqw)
+2. [Getting Started With Hugging Face in 15 Minutes](https://www.youtube.com/watch?v=QEaBAZQCtwE)
+3. [Fine-tuning a Neural Network explained](https://www.youtube.com/watch?v=5T-iXNNiwIs)
+4. [Fine-Tuning-DistilBert - Hugging Face Transformer for Poem Sentiment Prediction | NLP](https://www.youtube.com/watch?v=zcW2HouIIQg)
+5. [Introduction to NLP: Playlist](https://www.youtube.com/playlist?list=PLM8wYQRetTxCCURc1zaoxo9pTsoov3ipY)
+6. [Sentiment Analysis with BERT and Transformers by Hugging Face using PyTorch and Python](https://www.youtube.com/watch?v=hinZO--TEk4)
+
 📜 **License**
 -----------------
 Sentimental Analysis is released under the MIT. For more details, see the [LICENSE](LICENSE) file.
@@ -123,7 +133,14 @@ We would like to express our gratitude to [Azubi-Africa] for their valuable supp
 📞 **Contact**
 =================
 
-For any questions, concerns, or suggestions regarding Sentimental Analysis, please contact me at [penscolashackletonfelix@gmail.com].
+For any questions, concerns, or suggestions regarding Sentimental Analysis, please contact me at [📧Email](penscolashackletonfelix@gmail.com), 
+
+<a href="https://www.linkedin.com/in/felix-kiprotich-a2ba1a1a4/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:penscolashackletonfelix@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
 ---
 
